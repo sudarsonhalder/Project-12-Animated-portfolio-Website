@@ -16,9 +16,6 @@ const Contact=()=>{
                         <div className="form-group">
                             <input type="submit" className="btnSubmit" value="Login" checked required/>
                         </div>
-                        <div className="form-group">
-                            <a href="#" className="btn-get-started">Forget Password?</a>
-                        </div>
                 </div>
         </div>
         </div>
