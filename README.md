@@ -9,7 +9,8 @@ Animated Website Template.
 
 
 ## General info
-This project is built using React JS. It consist of Home,Service,About and contact page.
+This project is built using React JS.  
+It consist of Home,Service,About and contact page.
 
 ## Screenshots
  | ![Input Page](/output-images/home.png)|
